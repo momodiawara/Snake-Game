@@ -18,7 +18,7 @@ Un jeu Snake classique développé en Python avec une interface graphique utilis
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/votre-utilisateur/snake-game.git
+   git clone https://github.com/momodiawara/Snake-Game.git
    cd snake-game
 
     Exécutez le jeu :
@@ -37,6 +37,7 @@ Structure du projet
 ├── view.py           # Vue pour dessiner le serpent, la nourriture, les obstacles et afficher le score.
 ├── main.py           # Point d'entrée du jeu, reliant le modèle, la vue et le contrôleur.
 └── README.md         # Documentation du projet.
+
 
 Aperçu du Code
 Exemple de la logique des collisions (model.py) :
